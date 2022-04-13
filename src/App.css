@@ -1,0 +1,8 @@
+.pagenotfound{
+    background-image: url("https://freefrontend.com/assets/img/html-css-404-page-templates/Pure-CSS-404-Error-Page.gif");
+    height: 100vh;
+    width: 100%;
+    background-position: center;    
+    background-size: cover;
+    background-repeat: no-repeat;
+}
